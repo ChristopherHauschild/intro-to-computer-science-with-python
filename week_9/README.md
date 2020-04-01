@@ -1,6 +1,7 @@
 SEMANA 9
 
 Exercicio
+
 Dada uma lista de temperaturas, informar qual é a maior e a menor. Escrever ainda uma função para teste dos resultados antes de rodar o programa
 
 Programa Completo - COH-PIAH
