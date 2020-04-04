@@ -1,4 +1,4 @@
-SEMANA 10 
+SEMANA 12
 
 Exercício 1:
 Defina a classe Triangulo cujo construtor recebe 3 valores inteiros correspondentes aos lados a, b e c de um triângulo.
