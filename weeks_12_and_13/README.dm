@@ -26,3 +26,21 @@ Exercício 2:
 Ainda na classe Triangulo, escreva um método semelhantes(triangulo) que recebe um objeto do tipo Triangulo como parâmetro e verifica se o triângulo atual é semelhante ao triângulo passado como parâmetro. Caso positivo, o método deve devolver True. Caso negativo, deve devolver False.
 
 Verifique a semelhança dos triângulos através do comprimento dos lados.
+
+
+SEMANA 13
+
+Exercício 1
+Escreva a função ordenada(lista), que recebe uma lista com números inteiros como parâmetro e devolve o booleano True se a lista estiver ordenada e False se a lista não estiver ordenada.
+
+Exercício 2
+Implemente a função busca(lista, elemento), que busca um determinado elemento em uma lista e devolve o índice correspondente à posição do elemento encontrado. Utilize o algoritmo de busca sequencial. Nos casos em que o elemento buscado não existir na lista, a função deve devolver o booleano False.
+
+
+ADICIONAIS
+
+Exercício 1
+Escreva a função lista_grande(n), que recebe como parâmetro um número inteiro n e devolve uma lista contendo n números inteiros aleatórios.
+
+Exercício 2
+Implemente a função ordena(lista), que recebe uma lista com números inteiros como parâmetro e devolve esta lista ordenada em ordem crescente. Utilize o algoritmo selection sort.
