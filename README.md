@@ -16,11 +16,11 @@ Projetos e atividades realizados durante o curso disponibilizado pelo Departamen
   <li> Desenvolvimeto com Scrapy e PyGame </li>
 </ul>
 
-### Duração do curso:
+### Duração do curso: :clock1:
 
 Juntos, os cursos de Introdução à Ciência da Computação com Python - Parte 1 e Parte 2, totalizam 16 semanas, com mais de 30 horas de ensino.
 
-### Maiores informações:
+### Maiores informações: :pencil:
 
 O curso pode ser acessado através destes links:
 <a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos-1/home/welcome">Introdução à Ciência da Computação com Python - Parte 1</a>
