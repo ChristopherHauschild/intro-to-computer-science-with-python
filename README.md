@@ -4,10 +4,10 @@ Projetos e atividades realizados durante o curso disponibilizado pelo Departamen
 
 <hr>
 <p align="center">
-  <img width="900px" src=""/>
+  <img width="700px" src="https://github.com/ChristopherHauschild/intro-to-computer-science-with-python/blob/master/USP.png?raw=true"/>
 </p>
 
-## O que o curso oferece: :checked:
+## O que o curso oferece: :heavy_check_mark:
 
 <ul>
   <li> Suporte dos professores e demais alunos através do fórum </li>
