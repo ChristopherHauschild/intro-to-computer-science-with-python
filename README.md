@@ -28,4 +28,4 @@ O curso pode ser acessado através destes links:
 
 <hr>
 
-Atividades desenvolvidas com horas a frente do :computador: por Christopher H. Schott
+Atividades desenvolvidas com horas a frente do :computer: por Christopher H. Schott
